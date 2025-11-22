@@ -1,0 +1,259 @@
+{
+  "personalInfo": {
+    "name": "Neel Suthar",
+    "title": "Data Analyst | Security Analyst | Cloud Engineer",
+    "tagline": "Building secure, scalable cloud solutions | Data-driven insights | Cybersecurity advocate",
+    "email": "neelsuthar1901@gmail.com",
+    "phone": "+1 (416) 856-3145",
+    "location": "Toronto, Canada",
+    "social": {
+      "linkedin": "https://linkedin.com/in/neelsuthar",
+      "github": "https://github.com/Neel1901dev"
+    },
+    "bio": "Recent graduate with 4.17 GPA in Cyber Security & Cloud Operations, combining cloud expertise, ML/NLP proficiency, and security acumen to drive business impact.",
+    "stats": [
+      { "label": "Major Projects", "value": 4 },
+      { "label": "Certifications", "value": 4 },
+      { "label": "Years Experience", "value": "2+" },
+      { "label": "Tech Skills", "value": "10+" }
+    ]
+  },
+  "education": [
+    {
+      "school": "York University",
+      "degree": "Post Graduation in Cyber Security and Cloud Operations",
+      "date": "Sep 2023 – May 2025",
+      "gpa": "4.17/4.30",
+      "location": "Toronto, Canada",
+      "highlights": ["Excellent academic performance"]
+    },
+    {
+      "school": "Gujarat Technological University",
+      "degree": "B.E. in Information Technology",
+      "date": "July 2018 – June 2022",
+      "gpa": "9.30/10",
+      "location": "India",
+      "highlights": ["Outstanding achievement"]
+    }
+  ],
+  "skills": {
+    "Programming Languages": [
+      { "name": "Python", "level": "Expert" },
+      { "name": "Java", "level": "Advanced" },
+      { "name": "C++", "level": "Intermediate" },
+      { "name": "C", "level": "Intermediate" },
+      { "name": "JavaScript", "level": "Intermediate" },
+      { "name": "HTML/CSS", "level": "Intermediate" }
+    ],
+    "Cloud & DevOps": [
+      { "name": "AWS", "level": "Expert" },
+      { "name": "Google Cloud", "level": "Advanced" },
+      { "name": "Docker", "level": "Advanced" },
+      { "name": "Jenkins", "level": "Advanced" },
+      { "name": "CI/CD", "level": "Advanced" }
+    ],
+    "Databases": [
+      { "name": "MySQL", "level": "Expert" },
+      { "name": "MongoDB", "level": "Advanced" },
+      { "name": "PostgreSQL", "level": "Advanced" },
+      { "name": "DynamoDB", "level": "Advanced" },
+      { "name": "Oracle PeopleSoft", "level": "Advanced" }
+    ],
+    "Data Science & AI/ML": [
+      { "name": "Python Data Science", "level": "Expert" },
+      { "name": "NLP", "level": "Advanced" },
+      { "name": "BERT", "level": "Advanced" },
+      { "name": "PyTorch", "level": "Advanced" },
+      { "name": "TensorFlow", "level": "Advanced" },
+      { "name": "Keras", "level": "Advanced" },
+      { "name": "Scikit-learn", "level": "Advanced" },
+      { "name": "vLLM", "level": "Intermediate" },
+      { "name": "CUDA", "level": "Intermediate" }
+    ],
+    "Enterprise Tools": [
+      { "name": "SAP", "level": "Advanced" },
+      { "name": "Splunk Enterprise", "level": "Advanced" },
+      { "name": "Power BI", "level": "Advanced" },
+      { "name": "Snowflake", "level": "Advanced" },
+      { "name": "JIRA", "level": "Advanced" },
+      { "name": "Git", "level": "Advanced" }
+    ],
+    "Cybersecurity": [
+      { "name": "NIST Framework", "level": "Advanced" },
+      { "name": "Security Assessment", "level": "Advanced" },
+      { "name": "Vulnerability Scanning", "level": "Advanced" },
+      { "name": "Access Control", "level": "Advanced" },
+      { "name": "Compliance", "level": "Advanced" }
+    ],
+    "Soft Skills": [
+      { "name": "Analytical Thinking", "level": "Expert" },
+      { "name": "System Design", "level": "Expert" },
+      { "name": "Leadership", "level": "Expert" },
+      { "name": "Project Management", "level": "Expert" },
+      { "name": "Problem-Solving", "level": "Expert" }
+    ]
+  },
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner (CLF-C01)",
+      "issuer": "AWS",
+      "status": "Completed",
+      "date": "2024"
+    },
+    {
+      "name": "CompTIA Security+ (SYO-701)",
+      "issuer": "CompTIA",
+      "status": "Completed",
+      "date": "2024"
+    },
+    {
+      "name": "Oracle Certified Cloud Foundations Associate",
+      "issuer": "Oracle",
+      "status": "Completed",
+      "date": "2024"
+    },
+    {
+      "name": "Oracle Certified AI Foundations Associate",
+      "issuer": "Oracle",
+      "status": "Completed",
+      "date": "2024"
+    },
+    {
+      "name": "Google Cloud Machine Learning Engineer Specialization",
+      "issuer": "Google Cloud",
+      "status": "In Progress",
+      "date": "2025"
+    },
+    {
+      "name": "Connect and Protect: Networks and Network Security",
+      "issuer": "Cisco",
+      "status": "Completed",
+      "date": "2023"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Master Data Analyst",
+      "company": "Loblaws Head Office",
+      "type": "Contract",
+      "date": "June 2025 – Nov 2025",
+      "location": "Toronto, Canada",
+      "responsibilities": [
+        "Managed article creation and maintenance in SAP",
+        "Ensured compliance with Enterprise Data Policies",
+        "Resolved master data discrepancies with cross-functional teams",
+        "Conducted data cleansing to support store operations"
+      ],
+      "technologies": ["Python", "SQL", "SAP"],
+      "metrics": "Improved data quality standards, streamlined processes"
+    },
+    {
+      "title": "IT Support Desk",
+      "company": "York University",
+      "date": "October 2023 – May 2025",
+      "location": "North York, Canada",
+      "responsibilities": [
+        "Provided technical support for student information systems",
+        "Collaborated with multiple departments",
+        "Managed confidential data in compliance with privacy regulations",
+        "Prepared weekly status reports",
+        "Led exam monitoring operations"
+      ],
+      "technologies": ["Oracle PeopleSoft", "SIS", "Destiny", "JIRA"],
+      "metrics": "Strong organizational and time management skills"
+    },
+    {
+      "title": "Security Analyst",
+      "company": "Kody Technolab",
+      "date": "June 2022 – July 2023",
+      "location": "Ahmedabad, India",
+      "responsibilities": [
+        "Implemented data protection mechanisms",
+        "Conducted security assessments and vulnerability scans",
+        "Optimized database queries for cost reduction",
+        "Created ETL processing for scalability",
+        "Participated in Scrum and system design"
+      ],
+      "technologies": ["Splunk Enterprise", "AWS", "Python", "Java", "JIRA"],
+      "metrics": "Significant operational cost reduction, improved performance"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Sentiment Analysis and Opinion Mining",
+      "description": "NLP-based solution to understand customer sentiment on products, brands, and topics. Achieved 97% accuracy using BERT.",
+      "technologies": ["Python", "SQL", "Google Cloud", "BERT", "NLP", "CUDA"],
+      "features": [
+        "Processes unstructured data from social media",
+        "ML pipeline for model evaluation",
+        "Scalable data processing"
+      ],
+      "metrics": "97% Accuracy",
+      "links": { "github": "https://github.com/Neel1901dev" }
+    },
+    {
+      "title": "CloudStore - File Storage Application",
+      "description": "Secure cloud-based file storage application on AWS with automated file management and notifications.",
+      "technologies": ["ReactJS", "AWS", "S3", "Lambda", "DynamoDB", "SNS"],
+      "features": [
+        "User file upload/download management",
+        "Secure AWS storage infrastructure",
+        "Automated file deletion via EventBridge",
+        "Email notifications via SNS"
+      ],
+      "metrics": "Automated Management",
+      "links": { "github": "https://github.com/Neel1901dev" }
+    },
+    {
+      "title": "Customer Segmentation Analysis",
+      "description": "ML-based customer segmentation for targeted marketing using K-means clustering.",
+      "technologies": ["Python", "Data Visualization", "Machine Learning", "K-means"],
+      "features": [
+        "Divide customers into meaningful segments",
+        "Cluster analysis and visualization",
+        "Actionable marketing insights"
+      ],
+      "metrics": "Targeted Insights",
+      "links": { "github": "https://github.com/Neel1901dev" }
+    },
+    {
+      "title": "Fortifying PHP: Secure Coding Best Practices",
+      "description": "White paper on PHP security best practices aligned with NIST framework.",
+      "technologies": ["MySQL", "PHP", "NIST Framework"],
+      "features": [
+        "Secure coding practices",
+        "Cybersecurity framework alignment",
+        "Regulatory compliance"
+      ],
+      "metrics": "NIST Compliant",
+      "links": { "github": "https://github.com/Neel1901dev" }
+    }
+  ],
+  "volunteer": [
+    {
+      "role": "Event Volunteer",
+      "organization": "SiberX CISO Forum 2024",
+      "description": "Tech security industry exposure"
+    },
+    {
+      "role": "President & Workshop Facilitator",
+      "organization": "Google Developer Student Club, York University",
+      "description": "Led cross-functional teams, organized 'Hack the Skies' hackathon, led LeetCode Jam, organized Cloud Study Jam."
+    },
+    {
+      "role": "Cultural Programming Coordinator",
+      "organization": "Redefined Club & Canadian Young Academic Forum",
+      "description": "Demonstrated project management and stakeholder engagement."
+    }
+  ],
+  "about": {
+    "summary": "Neel Suthar is a results-driven Data Analyst and Security professional with a strong foundation in cloud computing, AI/ML, and cybersecurity. With a Master's degree in Cyber Security and Cloud Operations (GPA: 4.17) and a Bachelor's in Information Technology (CGPA: 9.30), Neel combines technical excellence with practical industry experience across Fortune 500 companies (Loblaws) and innovative tech startups (Kody Technolab).",
+    "strengths": [
+      { "title": "Cloud Architecture", "icon": "cloud", "desc": "AWS certified, experienced with Google Cloud" },
+      { "title": "Security", "icon": "security", "desc": "Splunk expertise, vulnerability assessment, NIST compliance" },
+      { "title": "Data Science", "icon": "data", "desc": "NLP/ML projects with 97% accuracy achievement" },
+      { "title": "Full Stack", "icon": "code", "desc": "Backend (Python, Java), Frontend (ReactJS), Databases" },
+      { "title": "Leadership", "icon": "users", "desc": "Led hackathons, workshops, tech communities" }
+    ]
+  }
+}
