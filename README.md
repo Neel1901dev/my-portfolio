@@ -2,7 +2,7 @@
 
 A stunning, fully responsive, and interactive developer portfolio built with **Next.js**, **Tailwind CSS**, and **Framer Motion**. Designed to showcase your skills, experience, and projects with a premium, Netflix-inspired aesthetic.
 
-![Portfolio Preview](https://i.imgur.com/your-preview-image.png)
+![Portfolio Preview](C:\Users\NEEL SUTHAR\Desktop)
 
 ## 🚀 Features
 
