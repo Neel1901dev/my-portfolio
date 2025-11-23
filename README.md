@@ -1,36 +1,104 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Modern Developer Portfolio
 
-## Getting Started
+A stunning, fully responsive, and interactive developer portfolio built with **Next.js**, **Tailwind CSS**, and **Framer Motion**. Designed to showcase your skills, experience, and projects with a premium, Netflix-inspired aesthetic.
 
-First, run the development server:
+![Portfolio Preview](https://i.imgur.com/your-preview-image.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+-   **Modern & Responsive Design**: Works seamlessly on desktop, tablet, and mobile.
+-   **Dynamic Content**: All data (profile, experience, projects, skills) is driven by a single JSON file (`src/data/resume.json`).
+-   **Smooth Animations**: Powered by Framer Motion for a polished user experience.
+-   **Interactive UI**: Hover effects, smooth scrolling, and engaging micro-interactions.
+-   **Contact Form**: Integrated with Formspree for easy email handling.
+-   **SEO Optimized**: Built with Next.js for excellent performance and SEO.
+-   **Dark Mode**: Sleek, dark-themed UI with vibrant accents.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+-   **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
+-   **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+-   **Animations**: [Framer Motion](https://www.framer.com/motion/)
+-   **Icons**: [React Icons](https://react-icons.github.io/react-icons/)
+-   **Deployment**: [Vercel](https://vercel.com/)
 
-## Learn More
+## 🏁 Getting Started
 
-To learn more about Next.js, take a look at the following resources:
+### Prerequisites
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   Node.js 18+ installed
+-   npm or yarn
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Installation
 
-## Deploy on Vercel
+1.  **Clone the repository**:
+    ```bash
+    git clone https://github.com/yourusername/my-portfolio.git
+    cd my-portfolio
+    ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2.  **Install dependencies**:
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+3.  **Run the development server**:
+    ```bash
+    npm run dev
+    # or
+    yarn dev
+    ```
+
+4.  Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## 🎨 Customization
+
+This portfolio is designed to be easily customizable. You don't need to touch the code to update your information!
+
+1.  **Update Data**: Open `src/data/resume.json`. This file contains all the information displayed on the site.
+    *   **personalInfo**: Name, title, contact info, social links.
+    *   **education**: Your academic background.
+    *   **experience**: Work history.
+    *   **skills**: Technical skills categorized by type.
+    *   **projects**: Your portfolio projects.
+    *   **certifications**: Your certificates.
+
+2.  **Update Images**:
+    *   Place your profile picture in `public/` (e.g., `profile.jpg`).
+    *   Update the reference in your code if you change the filename.
+
+3.  **Contact Form**:
+    *   Create a free form at [Formspree](https://formspree.io/).
+    *   Get your Form ID.
+    *   Update the `formId` in `src/components/Contact.tsx` or set it as an environment variable `NEXT_PUBLIC_FORMSPREE_ID`.
+
+## 🚀 Deployment
+
+The easiest way to deploy is using **Vercel**.
+
+1.  Push your code to a GitHub repository.
+2.  Go to [Vercel](https://vercel.com/) and sign up/login.
+3.  Click **Add New Project** and import your repository.
+4.  Click **Deploy**.
+
+Your site will be live in minutes!
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to improve this project:
+
+1.  Fork the repository.
+2.  Create a new branch (`git checkout -b feature/AmazingFeature`).
+3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4.  Push to the branch (`git push origin feature/AmazingFeature`).
+5.  Open a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+**Created by [Neel Suthar](https://github.com/Neel1901dev)**
