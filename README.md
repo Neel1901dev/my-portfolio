@@ -1,8 +1,6 @@
 # Modern Portfolio
 
-A stunning, fully responsive, and interactive developer portfolio built with **Next.js**, **Tailwind CSS**, and **Framer Motion**. Designed to showcase your skills, experience, and projects with a premium, Netflix-inspired aesthetic.
-
-![Portfolio Preview]("https://neelsuthar.vercel.app/")
+A stunning, fully responsive, and interactive developer portfolio built with **Next.js**, **Tailwind CSS**, and **Framer Motion**. Designed to showcase your skills, experience, and projects with a premium aesthetic.
 
 ## 🚀 Features
 
