@@ -10,7 +10,8 @@ import { IoMailOutline, IoCallOutline, IoLocationOutline, IoSend } from "react-i
 
 export const Contact = () => {
     const { personalInfo } = resumeData;
-    const [state, handleSubmit] = useForm("xblryzql"); // Replace with actual Formspree ID or use a placeholder
+    const formId = "mvgyblva";
+    const [state, handleSubmit] = useForm(formId);
 
     if (state.succeeded) {
         return (

@@ -15,9 +15,6 @@ export const Footer = () => {
                     <p className="text-gray-400 text-sm">
                         © {currentYear} {personalInfo.name}. All rights reserved.
                     </p>
-                    <p className="text-gray-500 text-xs mt-1 flex items-center justify-center md:justify-start">
-                        Built with Next.js & Tailwind CSS <IoHeart className="text-red-500 mx-1" />
-                    </p>
                 </div>
 
                 <div className="flex space-x-6">

@@ -85,8 +85,8 @@ export const Skills = () => {
                                 key={category}
                                 onClick={() => setActiveCategory(category)}
                                 className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${activeCategory === category
-                                        ? "bg-accent text-primary shadow-lg shadow-accent/20"
-                                        : "bg-white/5 text-gray-400 hover:bg-white/10 hover:text-white"
+                                    ? "bg-accent text-primary shadow-lg shadow-accent/20"
+                                    : "bg-white/5 text-gray-400 hover:bg-white/10 hover:text-white"
                                     }`}
                             >
                                 {category}
@@ -115,7 +115,7 @@ export const Skills = () => {
                                 </div>
                                 <div className="flex justify-between items-center">
                                     <span className="text-xs text-gray-500">{skill.category}</span>
-                                    <Badge variant={getLevelColor(skill.level) as any}>{skill.level}</Badge>
+                                    <Badge variant={getLevelColor(skill.level) as "default" | "outline" | "success" | "warning" | "accent"}>{skill.level}</Badge>
                                 </div>
                             </motion.div>
                         ))}
